@@ -8,6 +8,14 @@
 # Name of website
 title: My Website
 
+html { 
+  background: url(images/bg.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
 # Your name to show in the footer
 author: Some Person
 
