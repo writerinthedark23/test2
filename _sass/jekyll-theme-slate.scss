@@ -282,12 +282,14 @@ Full-Width Styles
 }
 
 #header_wrap {
-  background: #008000;
-  background: -moz-linear-gradient(top, #008000, #008000);
-  background: -webkit-linear-gradient(top, #008000, #008000);
-  background: -ms-linear-gradient(top, #008000, #008000);
-  background: -o-linear-gradient(top, #008000, #008000);
-  background: linear-gradient(to top, #008000, #008000);
+#bannerimage {
+  width: 100%;
+  background-image: url(http://s30.postimg.org/x0ne0p5wx/bootsrap.png);
+  height: 405px;
+  background-color: purple;
+  background-position: center;
+}
+<div id="bannerimage"></div>
 }
 
 #header_wrap .inner {
