@@ -1,37 +1,10 @@
-<style>
-
-img{
-
-width: 100%;
-
-height: 100%;
-
-display: flex;
-
-justify-content: center;
-
-align-items: center;
-
-text-align: center;
-
+.img-with-text{
+  width:200px;
+  text-align:center;
+  display:block;
+  background-color: transparent;
+  border: 1px solid transparent;
+  margin-right: 10px;
+  margin-bottom: 1px;
+  float:left;
 }
-
-h2{
-
-font-size: 18px;
-
-font-weight: 200;
-
-text-align: center;
-
-}
-
-</style>
-
-<div class="container">
-
-<img src="teammeating.jpg">
-
-<h2>Lorem ipsum dolor sit amet sed do eiusmod tempor.</h2>
-
-</div>
