@@ -6,11 +6,10 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 <img src="image/dok.jpg">
 <div class="img-with-text">
-    <img src="dok.jpg" alt="dok" />
+    <img id="imagewithcaption" src="dok.jpg" alt="dok" />
+    <p id="imagecaption">testing</p>   
     <p style="font-size:160%;">This is a paragraph.</p>
 </div>
-
-
 
 ### Markdown
 
