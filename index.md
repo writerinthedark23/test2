@@ -5,10 +5,9 @@ You can use the [editor on GitHub](https://github.com/writerinthedark23/test2/ed
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 <img src="image/dok.jpg">
-
 <div class="img-with-text">
-    <img src="dok.jpg">
-    <p>Ducks are undeniably cute. Fight meeeee!!</p>
+    <img src="dok.jpg" alt="dok" />
+    <p><center>This is a dok.</center></p>
 </div>
 
 ### Markdown
