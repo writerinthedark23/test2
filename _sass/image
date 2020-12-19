@@ -1,9 +1,5 @@
 .img-with-text {
-    text-align: justify;
+    text-align: justify; 
+    font-style: italic;
     width: [width of img];
-}
-
-.img-with-text img {
-    display: block;
-    margin: 0 auto;
 }
