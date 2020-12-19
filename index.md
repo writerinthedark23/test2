@@ -6,6 +6,11 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 <img src="image/dok.jpg">
 
+<div class="img-with-text">
+    <img src="dok.jpg" alt="This is a picture of a dok." />
+    <p>Ducks are undeniably cute. Fight meeeee!!</p>
+</div>
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
