@@ -1,5 +1,1 @@
-img-with-text {
-    text-align: justify; 
-    font-style: italic;
-    width: [width of img];
-}
+
