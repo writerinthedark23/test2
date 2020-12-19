@@ -7,7 +7,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 <img src="image/dok.jpg">
 
 <div class="img-with-text">
-    <img src="dok.jpg" alt="This is a picture of a dok." />
+    <img src="dok.jpg">
     <p>Ducks are undeniably cute. Fight meeeee!!</p>
 </div>
 
